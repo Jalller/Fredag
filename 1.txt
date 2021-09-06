@@ -1,9 +1,17 @@
-dette er skrevet på første linje
+
+
+
+
+
 dette er på anden linje af gunnar
 dswsksksksksksksks
 dfsdfsfs
-sdfsdf
-
+sdfs
+dette er skrevet på anden linje af lotta
+sdfkjsfhdskjfhdjg
+sdfsdfsdf
+3243243
+>>>>>>> 8aae2bf1ea748bfb1f4fa180566d56254f4da36a
 
 
 
