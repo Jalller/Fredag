@@ -8,9 +8,8 @@ dette er skrevet på første linje
 
 
 
-
-
-
+det her er skrevet af en anden ca linje 8
+nu vil jeg vise hvordan git merger automatisk
 
 
 
